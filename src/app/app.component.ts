@@ -10,10 +10,10 @@ export interface UsersData {
 }
 
 const ELEMENT_DATA: UsersData[] = [
-  {id: 1560, name: 'Artificial Intelligence'},
-  {id: 1561, name: 'Machine Learning'},
-  {id: 1562, name: 'Robotic Process Automation'},
-  {id: 1563, name: 'Blockchain'}
+  {id: 1001, name: 'T-Shirt'},
+  {id: 1002, name: 'Blue Jeans'},
+  {id: 1003, name: 'White Shirt'},
+  {id: 1004, name: 'Black Pant'}
 ];
 
 @Component({
